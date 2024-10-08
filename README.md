@@ -1,6 +1,6 @@
-# Hi there, I'm André! 👋
+## Hi there, I'm André! 👋
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 📫 How to reach me: [andre.a.perche@gmail.com](andre.a.perche@gmail.com)
 - 📝 More Info: [LinkedIn](https://www.linkedin.com/in/andreperche/) 
