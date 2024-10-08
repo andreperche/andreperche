@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- 📫 How to reach me: [andre.a.perche@gmail.com](andre.a.perche@gmail.com)
+- 📫 How to reach me: andre.a.perche@gmail.com
 - 📝 More Info: [LinkedIn](https://www.linkedin.com/in/andreperche/) 
 
 <!--
